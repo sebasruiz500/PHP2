@@ -29,7 +29,7 @@ $escuela_de_michis = array(
     )
 );
 
-$michi1 = $escuela_de_michis[0];
+$michi1 = $escuela_de_michis[0];//Aquí estamos en la posición 0 del arreglo y nos tenemos que mover
 echo "La comida favorita de Cari: " . $michi1["Mi comida favorita es: "]["Favorita"];
 
 echo "\n";
